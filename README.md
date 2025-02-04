@@ -57,10 +57,6 @@ Logging
 
 All calculations are saved in history.txt. The file is created if it does not exist and appended with new calculations.
 
-License
-
-This project is licensed under the MIT License.
-
 Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
