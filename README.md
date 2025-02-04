@@ -63,4 +63,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 Author
 
-Nicholas Connelly
+NCSci-Tech
